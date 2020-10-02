@@ -1,0 +1,1 @@
+A simple bubble sorting system rather than using ".sort".
